@@ -66,4 +66,4 @@ A comprehensive analysis of 1,000 hospital patient records conducted using Pytho
 ---
 
 ## 🧑‍💼 Author
-Your Name — Aspiring Data Analyst
+Vetcha Venkata Sai Pavan — Aspiring Data Analyst
