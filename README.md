@@ -62,7 +62,7 @@ A comprehensive analysis of 1,000 hospital patient records conducted using Pytho
 
 ## 📊 Power BI Dashboard Preview
 
-![Dashboard](PowerBi DashBoard/screenshots/dashboard.png)
+- ![Dashboard](PowerBi DashBoard/screenshots/dashboard.png)
 
 ---
 
